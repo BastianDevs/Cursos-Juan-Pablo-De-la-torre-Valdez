@@ -1,0 +1,9 @@
+/* Selector de atributo */
+/* Simbolo ^ es para inicio con.... y el $ es para termina con...*/
+a[href$=".com"] {
+    color: red;
+}
+
+input[type="tel"] {
+    border: 5px solid red;
+}

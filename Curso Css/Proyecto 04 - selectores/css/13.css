@@ -1,0 +1,5 @@
+/* Elemento en Especifico */
+
+ul li:nth-child(3n - 2) {
+    border: 2px solid red;
+}
